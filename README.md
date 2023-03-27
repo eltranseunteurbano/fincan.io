@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## TaskList
 - [ ] Implement quantcast for accept cookies and tracking with Google Analytics
-- [ x ] Implement commit lint
+- [x] Implement commit lint
 - [ ] Implement DDD
 - [ ] Implement Zustand
 - [ ] Implement react query
