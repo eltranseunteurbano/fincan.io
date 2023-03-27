@@ -36,3 +36,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## TaskList
+- [ ] Implement DDD
+- [ ] Implement Zustand
+- [ ] Implement react query
+- [ ] Implement Tailwind CSS
+- [ ] Implement i18n
+- [ ] Implement Auto - Animate
+- [ ] Implement React Hook Form
+- [ ] Implement Superbase with next
+- [ ] Testing with vitest
+- [ ] Testing con Storybook
+- [ ] Testing con cypress
+- [ ] Definir cronjobs para bienvenida al usuario con un email
+
+## Features
+- Automatic transactions from Belvo
