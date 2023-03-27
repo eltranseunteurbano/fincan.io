@@ -38,18 +38,23 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## TaskList
+- [ ] Implement quantcast for accept cookies and tracking with Google Analytics
 - [ ] Implement commit lint
 - [ ] Implement DDD
 - [ ] Implement Zustand
 - [ ] Implement react query
+- [ ] Implement axios
 - [ ] Implement Tailwind CSS
 - [ ] Implement i18n
 - [ ] Implement Auto - Animate
 - [ ] Implement React Hook Form
 - [ ] Implement Superbase with next
 - [ ] Testing with vitest
-- [ ] Testing con Storybook
+- [ ] Testing con Storybook y Testing library
 - [ ] Testing con cypress
+- [ ] Implement CI/CD
+- [ ] Implementar zentry
+- [ ] Testing accesibilit with pa11y
 - [ ] Definir cronjobs para bienvenida al usuario con un email
 
 ## Features
